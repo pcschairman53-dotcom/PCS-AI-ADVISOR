@@ -1,0 +1,6 @@
+{
+  "name": "PCS Consultancy Demat Desk",
+  "description": "Premium Demat Desk and Onboarding Platform for PCS Consultancy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
